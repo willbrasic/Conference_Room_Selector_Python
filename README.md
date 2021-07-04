@@ -1,4 +1,4 @@
-# Conference_Room_Selecter_Python
+# Conference_Room_Selector_Python
 
 The purpose of this program is to choose a conference room based on certain criteria to enhance social distancing during the COVID-19 pandemic.
 
